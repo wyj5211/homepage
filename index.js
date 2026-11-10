@@ -1,7 +1,7 @@
 var xhr = new XMLHttpRequest();
 // 指定主题颜色
-var theme = "DeepSkyBlue"
-var Darktheme = "default"
+var theme = "Fuchsia"
+var Darktheme = "Fuchsia"
 xhr.open('GET', '/style/material-color.json', true);
 
 // 当请求完成时执行的回调函数
